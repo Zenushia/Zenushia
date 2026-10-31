@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zenushia</h1>
 <h3 align="center">A Turkish developer!</h3>
 
-- 📫 How to reach me **Zenushia@outlook.com.tr**
+- 📫 How to reach me **zenushia@outlook.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/zenushia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zenushia" height="30" width="40" /></a>
 <a href="https://instagram.com/atw.sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atw.sn" height="30" width="40" /></a>
 </p>
 
